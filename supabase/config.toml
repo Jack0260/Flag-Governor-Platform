@@ -1,0 +1,2 @@
+[functions.evaluate-flags]
+verify_jwt = true
